@@ -50,15 +50,28 @@ body{
 }
 #skills{
     width: 45%;
+    
 }
 #skills h5{
     font-size: 20px;
-    margin: 0 0 15px 0
+    margin: 0 0 15px 0;
 }
 #skills ul{
     font-size: 20px;
     margin-top: 5px;
 }
+#software{
+    width: 45%;
+}
+#software p{
+    font-size: 20px;
+    margin: 0 0 15px 0;
+}
+#software ul{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
 #links{
     display: flex;
     justify-content: center;
